@@ -18,10 +18,8 @@
 <br>(개발자의 기준 브랜치인 "features"로 이동합니다.)
 6. Merge from the onw branch, [UserID]\_feat\_[AttributeName], to the base branch, "features" and push the base branch, "features".
 <br>(해당 기준 브랜치에 본인의 브랜치를 병합하고 푸쉬하여 반영합니다.)
-<B style="color:red">
-<br>** If wants, stach is available.
-<br>(** 기호에 따라 stach도 이용가능합니다.)
-</B>
+<br><B style="color:#f03c15">** If wants, stach is available.
+<br>(** 기호에 따라 stach도 이용가능합니다.)</b>
 -----
 ### TODO List (할일)
 - Check KEEP of the project.
